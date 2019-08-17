@@ -8,5 +8,5 @@ This section contain all informations about Swift programming language.
 - Create sub folder under a specific folder indicate sub topic.
 
 Example:
-ExampleTopic folder is main topic.
-Inside ExampleTopic has a folder ExampleSubTopic folder which is sub topic.
+- ExampleTopic folder is main topic.
+- Inside ExampleTopic has a folder ExampleSubTopic folder which is sub topic.
