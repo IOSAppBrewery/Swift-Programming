@@ -6,7 +6,7 @@ import Cocoa
 
 ///Integer
 var integer : Int = 23
-integer = -9 //Integer accept both postive and negative number
+integer = -9 //Integer accept both positive and negative number
 
 /**
  Integer bounds min and max
@@ -17,7 +17,7 @@ let max = Int.max
 /**
  Unsing integer
  
- Unsign integer can only accept postive number
+ Unsign integer can only accept positive number
  */
 var uInteger : UInt = 9
 //uInteger = -2 //Can not accept negative number
