@@ -15,15 +15,15 @@ let min = Int.min
 let max = Int.max
 
 /**
- Unsing integer
+ Unsigned integer
  
- Unsign integer can only accept positive number
+ Unsigned integer can only accept positive number
  */
 var uInteger : UInt = 9
 //uInteger = -2 //Can not accept negative number
 
 /**
- Unsign Integer bounds min and max
+ Unsigned Integer bounds min and max
  */
 let uMin = UInt8.min
 let uMax = UInt8.max
