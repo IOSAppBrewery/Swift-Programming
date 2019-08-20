@@ -25,5 +25,5 @@ var uInteger : UInt = 9
 /**
  Unsigned Integer bounds min and max
  */
-let uMin = UInt8.min
-let uMax = UInt8.max
+let uMin = UInt.min
+let uMax = UInt.max
