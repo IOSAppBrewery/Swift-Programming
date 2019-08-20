@@ -75,3 +75,11 @@ print(employee2.0)
 print(employee2.1)
 print(employee2.2)
 print(employee2.3)
+
+/**
+ String and Character
+ */
+var myName = "NelsonPunch"
+let character : Character = "C"
+print(myName)
+print(character)
